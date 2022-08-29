@@ -1,0 +1,25 @@
+{
+    "project_name": "o3de-dccsi-test-project",
+    "project_id": "{6545945E-B78E-4980-9512-867380D58A35}",
+    "origin": "The primary repo for o3de-dccsi-test-project goes here: i.e. http://www.mydomain.com",
+    "license": "What license o3de-dccsi-test-project uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "o3de-dccsi-test-project",
+    "summary": "A short description of o3de-dccsi-test-project.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "o3de-dccsi-test-project"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [
+        "C:/depot/sample-code-gems/py_gems/PyShapeExample",
+        "Gem"
+    ],
+    "restricted": "o3de-dccsi-test-project",
+    "gem_names": [
+        "DccScriptingInterface",
+        "TestData"
+    ]
+}

@@ -1,0 +1,28 @@
+
+set(ENABLED_GEMS
+    o3de-dccsi-test-project
+    Atom
+    AudioSystem
+    AWSCore
+    CameraFramework
+    DebugDraw
+    EditorPythonBindings
+    EMotionFX
+    GameState
+    ImGui
+    LandscapeCanvas
+    LyShine
+    PhysX
+    PrimitiveAssets
+    PrefabBuilder
+    SaveData
+    ScriptCanvasPhysics
+    ScriptEvents
+    StartingPointInput
+    TextureAtlas
+    WhiteBox
+    DiffuseProbeGrid
+    PyShapeExample
+    DccScriptingInterface
+    TestData
+)
