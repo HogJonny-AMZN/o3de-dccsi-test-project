@@ -25,4 +25,11 @@ set(ENABLED_GEMS
     PyShapeExample
     DccScriptingInterface
     TestData
+    props_mps
+    character_mps
+    kb3d_mps
+    landscape_mps
+    level_art_mps
+    pbr_material_pack_mps
+    particlefx_mps
 )
