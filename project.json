@@ -14,12 +14,19 @@
     "icon_path": "preview.png",
     "engine": "o3de",
     "external_subdirectories": [
-        "C:/depot/sample-code-gems/py_gems/PyShapeExample",
         "Gem"
     ],
     "restricted": "o3de-dccsi-test-project",
     "gem_names": [
         "DccScriptingInterface",
-        "TestData"
+        "PyShapeExample",
+        "QtForPython",
+        "props_mps",
+        "character_mps",
+        "kb3d_mps",
+        "landscape_mps",
+        "level_art_mps",
+        "pbr_material_pack_mps",
+        "particlefx_mps"
     ]
 }
